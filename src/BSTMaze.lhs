@@ -9,7 +9,7 @@
 > import Geography
 > import Data.List (sort)
 
---Root, left subtree, right subtree. Show converts to string and Eq checks for equality. 
+Root, left subtree, right subtree. Show converts to string and Eq checks for equality. 
 
 > data BST a = Empty
 >            | Node a (BST a) (BST a)
