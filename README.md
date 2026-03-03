@@ -74,5 +74,5 @@ solveMaze smallMaze (0,0)(3,2)
 
 ## 📄 Documentation
 
-For detailed implementation notes, performance analysis, and design decisions, see [REPORT.md](REPORT.md).
+For detailed implementation notes, performance analysis, and design decisions, see [IMPLEMENTATION.md](IMPLEMENTATION.md).
 
